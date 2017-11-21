@@ -1,4 +1,4 @@
-webpack -p
+webpack
 
 cd $phoenix_dir
 
