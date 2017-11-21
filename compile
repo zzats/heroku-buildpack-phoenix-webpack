@@ -1,4 +1,4 @@
-webpack
+NODE_ENV=production webpack
 
 cd $phoenix_dir
 
